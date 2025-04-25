@@ -1,5 +1,5 @@
-# Project Title
-React 18 app created with Vite, TypeScript and .Net Core 8.
+# React 18 app created with Vite, TypeScript and .Net Core 8.
+
 
 ## Table of Contents
 - [About](#about)
